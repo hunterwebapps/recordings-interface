@@ -1,0 +1,35 @@
+{
+    "name": "anatomy-video-interface",
+    "version": "0.1.0",
+    "proxy": "http://localhost:3000/",
+    "private": true,
+    "dependencies": {
+        "axios": "^0.18.0",
+        "connected-react-router": "^4.4.1",
+        "formik": "^1.1.1",
+        "history": "^4.7.2",
+        "lodash": "^4.17.10",
+        "moment": "^2.22.2",
+        "react": "^16.4.2",
+        "react-confirm-alert": "^2.0.5",
+        "react-copy-to-clipboard": "^5.0.1",
+        "react-dom": "^16.4.2",
+        "react-paginate": "^5.2.4",
+        "react-redux": "^5.0.7",
+        "react-router": "^4.3.1",
+        "react-router-dom": "^4.3.1",
+        "react-scripts": "^1.1.5",
+        "react-select": "^2.0.0",
+        "redux": "^4.0.0",
+        "redux-devtools-extension": "^2.13.5",
+        "redux-saga": "^0.16.0",
+        "video-react": "^0.13.0",
+        "yup": "^0.26.3"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
